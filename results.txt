@@ -1,0 +1,15 @@
+autodiff_test.test_identity ... ok
+autodiff_test.test_add_by_const ... ok
+autodiff_test.test_mul_by_const ... ok
+autodiff_test.test_add_two_vars ... ok
+autodiff_test.test_mul_two_vars ... ok
+autodiff_test.test_add_mul_mix_1 ... ok
+autodiff_test.test_add_mul_mix_2 ... ok
+autodiff_test.test_add_mul_mix_3 ... ok
+autodiff_test.test_grad_of_grad ... ok
+autodiff_test.test_matmul_two_vars ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.003s
+
+OK
